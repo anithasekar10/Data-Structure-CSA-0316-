@@ -1,6 +1,7 @@
 include<stdio.h>
 int main()
 {
+printf("Name: Anitha\Reg no: 192324040\n");
 int r1,c1,r2,c2,i,j,k,c[50][50],a[50][50],b[50][50];
 scanf("%d %d %d %d",&r1,&r2,&c1,&c2);
 for(i=0;i<r1;i++)
