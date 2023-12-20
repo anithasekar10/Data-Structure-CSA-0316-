@@ -1,0 +1,15 @@
+#include <stdio.h>
+int rec(int a){
+	if(a<=1)
+	return a;
+	else
+	return rec(a-1)+rec(a-2);
+}
+int main() {
+    printf("Name: Anitha\nReg no: 192324040\n");
+    int n,fact=1;
+    printf("Enter the number: ");
+    scanf("%d", &n);
+    printf("\nThe %dth fibbonacci numbers is %d ",n,rec(n));
+    return 0;
+}
