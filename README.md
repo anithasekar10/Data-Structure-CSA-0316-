@@ -1,3 +1,4 @@
+day 1 - Arrays
 1.1. Addition of Two Matrices
 1.2. Multiplication of Two Matrices
 1.3. Sum of Diagonals
@@ -14,7 +15,9 @@
 1.14. Print odd and even in given array
 1.15. Sum of row and column in matrix
 1.16. Given array elements display 5th iterated element
-Recursion and Search
+
+day 2 - Recursion and Search
+
 2.1. Find Fibbonacci series upto n numbers and it's sum
 2.2. Find the Factorial of a given number
 2.3. Find the nth Fibbonacci number using recursion
