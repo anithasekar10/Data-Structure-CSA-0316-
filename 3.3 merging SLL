@@ -65,7 +65,7 @@ void merg(struct node **head1, struct node **head2) {
 
 
 int main() {
-    printf("Name: Philip Gracian Sanova\nReg No:192324023\n");
+    printf("Name: Anitha\nReg No:192324040\n");
     struct node *list1=NULL;
     struct node *list2=NULL;
     ins_end(&list1,1);
