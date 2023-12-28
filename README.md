@@ -1,4 +1,4 @@
-day 1 - Arrays<\n>
+day 1 - Arrays<br />
 1.1. Addition of Two Matrices
 1.2. Multiplication of Two Matrices
 1.3. Sum of Diagonals
